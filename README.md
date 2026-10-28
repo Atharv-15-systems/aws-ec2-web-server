@@ -4,7 +4,7 @@
 
 **Topic:** Set up a web application on Amazon EC2 (Ubuntu 24.04 + Apache), secured with a least-privilege Security Group.
 
-Full step-by-step report (PDF): [docs/EC2_WebApp_Assignment.pdf](docs/EC2_WebApp_Assignment.pdf)
+Full step-by-step report (PDF): [docs/EC2_WebApp_Assignment.pdf](docs/EC2_WebApp_Assignment(u3).pdf)
 
 ## Architecture
 
